@@ -1,0 +1,10 @@
+06/09/2017 15:06:40 DEBUG devpinoyLogger:70 - Hello
+06/09/2017 15:06:40 DEBUG devpinoyLogger:71 - Properties loaded. Starting testing
+06/09/2017 15:06:40 DEBUG devpinoyLogger:77 - Intialize Suite xlsx
+06/09/2017 15:06:40 DEBUG devpinoyLogger:83 - Check out -- Y
+06/09/2017 15:06:40 DEBUG devpinoyLogger:88 - ******Executing the Suite******Check out
+06/09/2017 15:06:40 DEBUG devpinoyLogger:92 - ShoppingCart -- Y
+06/09/2017 15:06:40 DEBUG devpinoyLogger:96 - Executing the test case -> ShoppingCart
+06/09/2017 15:06:40 DEBUG devpinoyLogger:102 - Iteration number 1
+06/09/2017 15:06:40 DEBUG devpinoyLogger:144 - openBrowser
+06/09/2017 15:07:00 DEBUG devpinoyLogger:40 - Opening browser
